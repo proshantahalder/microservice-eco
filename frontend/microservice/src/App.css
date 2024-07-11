@@ -1,0 +1,55 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li{
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: #333;
+}
+
+h2{
+  color: #444;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+li{
+margin-bottom: 20px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input{
+  margin-right: 10px;
+  padding: 5px;
+}
+
+button{
+  padding: 5px 10px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: aquamarine;
+}
